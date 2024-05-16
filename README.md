@@ -1,4 +1,4 @@
-### Repository praktikum algoritma dan struktur data
+### Repository algoritma dan struktur data
 
 Nama  : Arif Mulya Putra
 NIM   : 2311110017
