@@ -51,7 +51,7 @@ int main() {
 
 ```
 
-#### Output:
+
 
 
 
@@ -116,7 +116,7 @@ int main() {
 
 ```
 
-#### Output:
+
 
 Penjelasan:
 
