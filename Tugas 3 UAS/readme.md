@@ -78,7 +78,8 @@ int main() {
 
 #### Output:
 
-)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Teori/assets/161549884/95ac1233-084b-4f26-aa1c-230c37199205)
+
 
 #### Penjelasan Program:
 
@@ -180,8 +181,7 @@ int main() {
 }
 ```
 #### Output:
-
-
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Teori/assets/161549884/4e6212d9-024e-4f26-a6aa-55377eddc680)
 
 
 #### Penjelasan Program:
@@ -248,9 +248,7 @@ int main() {
 ```
 
 #### Output:
-
-
-
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Teori/assets/161549884/ae64ef2a-d4c3-472a-90e2-97bb7cddb6a7)
 
 #### Penjelasa Program:
 Program diatas menghitung dan mencetak nilai faktorial dari sebuah angka menggunakan rekursi. Fungsi faktorial didefinisikan untuk menghitung `faktorial` dari integer `n` secara rekursif. Jika `n` sama dengan 0, fungsi mengembalikan 1 (basis kasus); jika tidak, fungsi memanggil dirinya sendiri dengan argumen `n-1` dan mengalikan hasilnya dengan `n`. Dalam fungsi `main`, variabel `angka` diinisialisasi dengan nilai 5, dan fungsi `faktorial` dipanggil dengan `angka` sebagai argumen. Hasilnya, program mencetak "Faktorial dari 6 adalah 120" ke layar, menandakan bahwa faktorial dari 5 adalah 720.
@@ -324,6 +322,7 @@ int main() {
 ```
 #### Output:
 
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Teori/assets/161549884/0a094979-e7d2-4f0e-bfb8-9c7253dffdbb)
 
 
 #### Penjelasan Program
